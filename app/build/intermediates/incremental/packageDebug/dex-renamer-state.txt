@@ -1,0 +1,7 @@
+#Sun Dec 11 17:17:49 CST 2016
+base.0=C\:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_33cb88db3bdc66dbc87edfe0a25705e4bded2c92
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5cf6c7d635552b37b0a3b542bb7da4e84c139027\\classes.dex
+base.1=C\:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5cf6c7d635552b37b0a3b542bb7da4e84c139027
+file.0=C\:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_33cb88db3bdc66dbc87edfe0a25705e4bded2c92\\classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\msi\AndroidStudioProjects\MyBeatPlane\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b0bad0a80c0f949f5bdaac728511f736081b49c8">
+        <dex dex="C:\Users\msi\AndroidStudioProjects\MyBeatPlane\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_33cb88db3bdc66dbc87edfe0a25705e4bded2c92\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\msi\AndroidStudioProjects\MyBeatPlane\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8b396899127cb68a3f10289c76be9bf3717ce79d">
+        <dex dex="C:\Users\msi\AndroidStudioProjects\MyBeatPlane\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5cf6c7d635552b37b0a3b542bb7da4e84c139027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\msi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\msi\AndroidStudioProjects\MyBeatPlane\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_86ea75db0988f590c79cbbf784d8700790ed4f9a\classes.dex" />
+    </item>
+
+</items>

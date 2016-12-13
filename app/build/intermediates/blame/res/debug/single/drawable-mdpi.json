@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\middle.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\middle.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplane.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplane.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplane_left.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplane_left.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bk.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\bk.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplanemid_left.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplanemid_left.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\text.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\planeicon.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\planeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\small.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\small.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplanemid.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplanemid.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplanebig_left.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplanebig_left.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplanebig.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplanebig.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\button2.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\button2.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\myplaneexplosion.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\myplaneexplosion.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\play.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\big.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\big.png"
+    },
+    {
+        "merged": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\fly.png",
+        "source": "C:\\Users\\msi\\AndroidStudioProjects\\MyBeatPlane\\app\\src\\main\\res\\drawable-mdpi\\fly.png"
+    }
+]
